@@ -21,9 +21,8 @@ about:
       href: https://GITHUB_USERNAME.github.io/resume-example.pdf
     - icon: mailbox
       text: Email
-      href: mailto:njd7@geneseo.edu      
+      href: mailto:njd7@geneseo.edu
 ---
-
 Neil Downey majors in Business Administration at SUNY Geneseo. When not working on data analytics, Neil enjoys spending time with friends and playing ice hockey.
 
 ## Education
