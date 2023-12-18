@@ -155,3 +155,5 @@ ggplot(data = college_bball) +
   geom_point(mapping = aes(x = EFG_O, y = W))
 ```
 There is a positive relationship between field goal percentage and number of games won. So, as a team increases their field goal percentage, they will most likely win more games
+
+
